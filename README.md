@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me: https://www.linkedin.com/in/stroherdebora/
+-->
