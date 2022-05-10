@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Débora Patrícia Ströher, 27 years old, currently living in Brazil.
 
+I am a computer scientist graduated from the "Federal University of Pampa" in 2021. Currently, I continue to improve my knowledge, now as a mobile developer, where I intend to pursue a career.
+
+A software developer who is also passionate about user interface design and information security.
 <!--
 **stroherdebora/stroherdebora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+I'm Débora Patrícia Ströher, 27 years old, currently living in Brazil.
 
+I am a computer scientist graduated from "Universidade Federal do Pampa” in 2021. Currently, 
 
-- 🌱 I’m currently learning **Dart and Flutter**
+A software developer who is also passionate about user interface design.
 
-- 📫 How to reach me: https://www.linkedin.com/in/stroherdebora/
 -->
 
 ### Technologies
 * C
 * C++
 * Python
+* Bash/Shell
 * Currently learning Dart/Flutter
 
 ### Contact Me
