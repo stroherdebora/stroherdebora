@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 
 ### Technologies
 C
+
 C++
+
 Python
+
 Currently learning Dart/Flutter
 
 ### Contact Me
