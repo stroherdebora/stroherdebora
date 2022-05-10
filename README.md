@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: https://www.linkedin.com/in/stroherdebora/
 -->
+
+### Technologies
+C
+C++
+Python
+Currently learning Dart/Flutter
+
+### Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermesam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stroherdebora/)](https://www.linkedin.com/in/guilherme-samuel-0732371a0/)
+  
