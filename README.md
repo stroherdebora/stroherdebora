@@ -34,5 +34,5 @@ A software developer who is also passionate about user interface design.
 * Currently learning Dart/Flutter
 
 ### Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-guilhermesam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stroherdebora/)](https://www.linkedin.com/in/guilherme-samuel-0732371a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermesam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stroherdebora/)](https://www.linkedin.com/in/stroherdebora/)
   
