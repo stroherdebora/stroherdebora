@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Débora Patrícia Ströher, 27 years old, living in Brazil.
 
-I am a computer scientist graduated from the "Universidade Federal do Pampa". 
+I'm a computer scientist graduated from the "Universidade Federal do Pampa". 
 Currently, I continue to improve my knowledge, now as a mobile developer, where I intend to pursue a career.
 
-A software developer who is also passionate about user interface design and information security.
+I'm also passionate about user interface design and information security.
 <!--
 **stroherdebora/stroherdebora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
