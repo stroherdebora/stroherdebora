@@ -32,8 +32,7 @@ A software developer who is also passionate about user interface design.
 * C++
 * Python
 * Bash/Shell
-
-🌱 Currently learning Dart/Flutter
+* 🌱 Currently learning Dart/Flutter
 
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-stroherdebora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stroherdebora/)](https://www.linkedin.com/in/stroherdebora/)
