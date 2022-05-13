@@ -32,6 +32,7 @@ A software developer who is also passionate about user interface design.
 * C++
 * Python
 * Bash/Shell
+
 🌱 Currently learning Dart/Flutter
 
 ### Contact Me
