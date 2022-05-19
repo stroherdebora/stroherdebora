@@ -25,14 +25,15 @@ I am a computer scientist graduated from "Universidade Federal do Pampa” in 20
 
 A software developer who is also passionate about user interface design.
 
--->
-
 ### Technologies
 * C
 * C++
 * Python
 * Bash/Shell
 * 🌱 Currently learning Dart/Flutter
+-->
+
+
 
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-stroherdebora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stroherdebora/)](https://www.linkedin.com/in/stroherdebora/)
