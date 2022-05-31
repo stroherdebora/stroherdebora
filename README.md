@@ -25,12 +25,10 @@ I am a computer scientist graduated from "Universidade Federal do Pampa” in 20
 
 A software developer who is also passionate about user interface design.
 
-### Technologies
-* C
-* C++
-* Python
-* Bash/Shell
-* 🌱 Currently learning Dart/Flutter
+### Currently stack
+* Java
+* Dart
+* Flutter
 -->
 
 
