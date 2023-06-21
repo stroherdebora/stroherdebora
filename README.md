@@ -4,7 +4,7 @@ My name is Débora Patrícia Ströher.
 I'm a computer scientist graduated from the Universidade Federal do Pampa. 
 Currently, I continue to improve my knowledge, now as a mobile developer.
 
-I'm also passionate about user interface design and information security.
+
 <!--
 **stroherdebora/stroherdebora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
